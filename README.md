@@ -1,2 +1,9 @@
-# foundations_of_data_science
-Class Website of Foundations of Data Science
+Foundations of Data Science
+===========================
+
+Instructor: Tansey Wesley, Ph.D. 
+Teaching Assistant: Yuanqing Wang
+
+
+
+
