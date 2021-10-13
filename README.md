@@ -13,6 +13,29 @@ Office hours by appointment; Dr. Tansey makes himself available to students and 
 ## Course Description
 The course will give trainees a common foundation upon which they can talk about, reason through, and work with data. We will start with the very basics of data analysis: modeling and statistical inference. On top of these two core ideas we'll build more advanced topics like graphical models, posterior inference, and optimization. Rounding out the topics will be some of the most common methodological applications: mixture models, matrix factorization, and regularized regression. At each step in this series, the focus will be on viewing data science holistically through the lens of probabilistic modeling.
 
+## Schedule
+- Optimization
+	1. Likelihoods, MLE, expectations, bias, variance
+	2. Logistic regression, convexity, gradient descent, newton's method
+	3. Priors, penalties, MAP, L1 vs L2
+
+- Baeysian Inference
+	4. Posterior distributions, Bayes' rule, uncertainty intervals, Bayes' estimate, posterior predictive
+	5. Graphical models, conjugate priors, Gibbs sampling
+	6. Non-conjugate models, Metropolis Hastings, Bayes vs. Optimization
+
+- Applications with Bayesian vs optimization comparisons
+	7. Latent variable models, mixture models, data augmentation, EM
+	8. Matrix factorization, tensors, latent factor modeling, alternating minimization, selecting the number of factors
+	9. Missing data, informative missingness, causal inference
+	10. Time series and spatial data, Gaussian processes, trend filtering
+
+- Can't we all just get along? Hybrid (optimization + Bayes) approaches
+	11. Hamiltonian Monte Carlo
+	12. Empirical Bayes
+	13. Variational inference
+	14. Deep generative models
+
 ## Course Objectives
 At the completion of this course the learner will become familiar with:
 - Modeling and analyzing data along with tradeoffs in different approaches
