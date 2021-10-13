@@ -17,25 +17,10 @@ The course will give trainees a common foundation upon which they can talk about
 
 | Section  | Lecture | Homework |
 | :-------------: | :-------------: |  :-------------: | 
-| Optimization | 1. Likelihoods, MLE, expectations, bias, variance <br><br> 2. Logistic regression, convexity, gradient descent, newton's method <br><br> 3. Priors, penalties, MAP, L1 vs L2|
-
-
-- Baeysian Inference
-    4. Posterior distributions, Bayes' rule, uncertainty intervals, Bayes' estimate, posterior predictive
-    5. Graphical models, conjugate priors, Gibbs sampling
-    6. Non-conjugate models, Metropolis Hastings, Bayes vs. Optimization
-
-- Applications with Bayesian vs optimization comparisons
-    7. Latent variable models, mixture models, data augmentation, EM
-    8. Matrix factorization, tensors, latent factor modeling, alternating minimization, selecting the number of factors
-    9. Missing data, informative missingness, causal inference
-    10. Time series and spatial data, Gaussian processes, trend filtering
-
-- Can't we all just get along? Hybrid (optimization + Bayes) approaches
-    11. Hamiltonian Monte Carlo
-    12. Empirical Bayes
-    13. Variational inference
-    14. Deep generative models
+| Optimization | 1. Likelihoods, MLE, expectations, bias, variance <br><br> 2. Logistic regression, convexity, gradient descent, newton's method <br><br> 3. Priors, penalties, MAP, L1 vs L2| Poisson regression | 
+| Bayesian inference | 4. Posterior distributions, Bayes' rule, uncertainty intervals, Bayes' estimate, posterior predictive <br><br>  <br><br>5. Graphical models, conjugate priors, Gibbs sampling  <br><br> 6. Non-conjugate models, Metropolis Hastings, Bayes vs. Optimization |
+| Applications with Bayesian vs optimization comparisons | 7. Latent variable models, mixture models, data augmentation, EM  <br><br> 8. Matrix factorization, tensors, latent factor modeling, alternating minimization, selecting the number of factors  <br><br> 9. Missing data, informative missingness, causal inference  <br><br>10. Time series and spatial data, Gaussian processes, trend filtering |
+| Can't we all just get along? Hybrid (optimization + Bayes) approaches | 11. Hamiltonian Monte Carlo  <br><br> 12. Empirical Bayes  <br><br> 13. Variational inference <br><br> 14. Deep generative models|
 
 ## Course Objectives
 At the completion of this course the learner will become familiar with:
