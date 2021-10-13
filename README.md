@@ -15,26 +15,26 @@ The course will give trainees a common foundation upon which they can talk about
 
 ## Schedule
 - Optimization
-	1. Likelihoods, MLE, expectations, bias, variance
-	2. Logistic regression, convexity, gradient descent, newton's method
-	3. Priors, penalties, MAP, L1 vs L2
+    1. Likelihoods, MLE, expectations, bias, variance
+    2. Logistic regression, convexity, gradient descent, newton's method
+    3. Priors, penalties, MAP, L1 vs L2
 
 - Baeysian Inference
-	4. Posterior distributions, Bayes' rule, uncertainty intervals, Bayes' estimate, posterior predictive
-	5. Graphical models, conjugate priors, Gibbs sampling
-	6. Non-conjugate models, Metropolis Hastings, Bayes vs. Optimization
+    4. Posterior distributions, Bayes' rule, uncertainty intervals, Bayes' estimate, posterior predictive
+    5. Graphical models, conjugate priors, Gibbs sampling
+    6. Non-conjugate models, Metropolis Hastings, Bayes vs. Optimization
 
 - Applications with Bayesian vs optimization comparisons
-	7. Latent variable models, mixture models, data augmentation, EM
-	8. Matrix factorization, tensors, latent factor modeling, alternating minimization, selecting the number of factors
-	9. Missing data, informative missingness, causal inference
-	10. Time series and spatial data, Gaussian processes, trend filtering
+    7. Latent variable models, mixture models, data augmentation, EM
+    8. Matrix factorization, tensors, latent factor modeling, alternating minimization, selecting the number of factors
+    9. Missing data, informative missingness, causal inference
+    10. Time series and spatial data, Gaussian processes, trend filtering
 
 - Can't we all just get along? Hybrid (optimization + Bayes) approaches
-	11. Hamiltonian Monte Carlo
-	12. Empirical Bayes
-	13. Variational inference
-	14. Deep generative models
+    11. Hamiltonian Monte Carlo
+    12. Empirical Bayes
+    13. Variational inference
+    14. Deep generative models
 
 ## Course Objectives
 At the completion of this course the learner will become familiar with:
